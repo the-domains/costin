@@ -1,13 +1,27 @@
-layout_spectrum: 0
+name: Costin
+favicon: null
+layout_spectrum: 0.24648
+typography_spectrum: 0.79401
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4510961
-  lightness: 0.1694772
-  brandStrength: 0.9527825
   brandColors:
     - '#030303'
     - '#FBFBFB'
     - '#5C5C5C'
     - '#888888'
+  brandStrength: 0.9527825
+  lightness: 0.1694772
+  saturation: 0.4510961
   rhythmicContrast: 0.7495784
-typography_spectrum: 0.5210792
-name: Costin
+purpose: []
